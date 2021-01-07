@@ -2,4 +2,4 @@
 
 Check out the projects I'm currently working on:
 
-![Screenshot oPhone](screenshot_oPhone.png)
+![Screenshot oPhone](Screenshot_oPhone.png)
